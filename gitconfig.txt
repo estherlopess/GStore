@@ -1,0 +1,8 @@
+git config --global user.email estherlopes678@gmail.com
+git config --global user.name estherlopess
+
+--criar o projeto
+dotnet new webapi -o GStore.API --use-controllers
+
+--instalçao das bibliotecas/pacotes
+extenção NUget Gallery
